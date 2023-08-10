@@ -1,0 +1,4 @@
+<h1> DIABETIC RETINOPATHY ANALYSER </H1>
+<p>This is a CNN project I developed during the FutureSchool.AI summer school program on Visual Intelligence and Deep Learning </p>
+<p>This is a supervised learning project developed using Python and its inbuilt library Keras.</p>
+<p>There are two models in this program - a custom-built 18 layer model and a transfer learning model. Both the models are trained on images of retinal scans of diabetic patients and correctly outputs the grade of diabetic retinopathy and the risk of contracting macular edema with an accuracy of approximately 92%. The transfer learning model is based on the InceptionResnetV2 model</p>
